@@ -7,6 +7,7 @@
 - [Training Log](#Log)
 - [Weights](#weights)
 - [Environment](#environment)
+- [Tuning_Hyperparameters](#hyper)
 - [Speed](#speed)
 - [Google Colab](#colab)
 - [References](#ref)
@@ -61,6 +62,10 @@ https://drive.google.com/file/d/1-mfFLoZrUd6jlrmd9V9ym5_g2J3SIyPV/view?usp=shari
 - nvcc: NVIDIA (R) Cuda compiler driver
 - Cuda compilation tools, release 11.8, V11.8.89
 - Build cuda_11.8.r11.8/compiler.31833905_0
+
+<h2 id='hyper'>Tuning Hyperparameters</h2>
+
+https://colab.research.google.com/drive/1DlWlXhY4k5pwOVGWSPEt6zYDLj4sLH39#scrollTo=LlPmSN513UYT
 
 <h2 id='speed'>Speed</h2>
 
